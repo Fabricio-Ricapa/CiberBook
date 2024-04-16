@@ -1,9 +1,15 @@
-import 'package:app_libros/pages/Prueba/info_pages.dart';
+import 'package:app_libros/pages/Prueba/Info_Pages.dart';
 import 'package:flutter/material.dart';
+
 
 class Libros_En_General extends StatelessWidget {
   final String image;
-  const Libros_En_General({super.key, required this.image});
+  final String imagewith;
+  final String title;
+  final String description;
+  final Color color;
+  
+  const Libros_En_General({super.key, required this.image, required this.imagewith, required this.title, required this.description, required this.color,});
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +32,7 @@ class Libros_En_General extends StatelessWidget {
       onTap: () {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => const Prueba(image: "assets/images/1.png", title: "Pabre Rico Pabre Pobre", description: "Nemo ut dolores voluptate deserunt et numquam nobis magnam eligendi. Numquam rem in totam amet voluptatem vitae eaque quod. Natus et repudiandae nulla quia molestiae doloremque autem.",)),
+          MaterialPageRoute(builder: (context) => info_pages(image: imagewith, title: title, description: description, color: color,)),
         );
       },
     );
