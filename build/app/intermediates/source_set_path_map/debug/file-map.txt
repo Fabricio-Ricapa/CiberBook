@@ -1,0 +1,15 @@
+video.mondragon.app_libros.app-debug-0 C:\1. Project Flutter\6.app_libros\app_libros\android\app\src\debug\res
+video.mondragon.app_libros.app-main-1 C:\1. Project Flutter\6.app_libros\app_libros\android\app\src\main\res
+video.mondragon.app_libros.app-pngs-2 C:\1. Project Flutter\6.app_libros\app_libros\build\app\generated\res\pngs\debug
+video.mondragon.app_libros.app-resValues-3 C:\1. Project Flutter\6.app_libros\app_libros\build\app\generated\res\resValues\debug
+video.mondragon.app_libros.app-rs-4 C:\1. Project Flutter\6.app_libros\app_libros\build\app\generated\res\rs\debug
+video.mondragon.app_libros.app-mergeDebugResources-5 C:\1. Project Flutter\6.app_libros\app_libros\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+video.mondragon.app_libros.app-mergeDebugResources-6 C:\1. Project Flutter\6.app_libros\app_libros\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+video.mondragon.app_libros.app-merged_res-7 C:\1. Project Flutter\6.app_libros\app_libros\build\app\intermediates\merged_res\debug
+video.mondragon.app_libros.app-packaged_res-8 C:\1. Project Flutter\6.app_libros\app_libros\build\url_launcher_android\intermediates\packaged_res\debug
+video.mondragon.app_libros.app-jetified-window-1.0.0-beta04-9 C:\Users\Vidal\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+video.mondragon.app_libros.app-core-1.10.1-10 C:\Users\Vidal\.gradle\caches\transforms-3\0b9c903fef8d2eb2a269c36999ef4a74\transformed\core-1.10.1\res
+video.mondragon.app_libros.app-jetified-window-java-1.0.0-beta04-11 C:\Users\Vidal\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+video.mondragon.app_libros.app-lifecycle-runtime-2.3.1-12 C:\Users\Vidal\.gradle\caches\transforms-3\25a884faa36a531a9e5f369d596bbf88\transformed\lifecycle-runtime-2.3.1\res
+video.mondragon.app_libros.app-browser-1.5.0-13 C:\Users\Vidal\.gradle\caches\transforms-3\a3fbb37dd5ef93c98bc80ddf0289d0af\transformed\browser-1.5.0\res
+video.mondragon.app_libros.app-jetified-annotation-experimental-1.3.0-14 C:\Users\Vidal\.gradle\caches\transforms-3\ae329bc8a0eb87982c4fe41e3ec5da7f\transformed\jetified-annotation-experimental-1.3.0\res
